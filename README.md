@@ -1,2 +1,0 @@
-# mis3371-homework2
-Liam Nguyen
